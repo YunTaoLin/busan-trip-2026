@@ -13,9 +13,9 @@ export default defineConfig({
       registerType: 'autoUpdate',
       includeAssets: ['favicon.svg', 'pwa-192.svg', 'pwa-512.svg'],
       manifest: {
-        name: '阿滔阿欣｜2026 釜山自由行',
-        short_name: '阿滔阿欣釜山行',
-        description: '阿滔阿欣 2026 釜山五天四夜自由行程與地圖。',
+        name: '2026 釜山自由行',
+        short_name: '釜山行',
+        description: '2026 釜山五天四夜自由行程與地圖。',
         lang: 'zh-TW',
         theme_color: '#bfe8f5',
         background_color: '#fffaf0',

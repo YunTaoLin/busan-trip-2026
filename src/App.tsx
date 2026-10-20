@@ -446,7 +446,7 @@ function App() {
         <div className="brand-mark" aria-hidden="true">✦</div>
         <div>
           <p className="eyebrow">BUSAN TRIP · 2026</p>
-          <h1>阿滔 <span>&</span> 阿欣</h1>
+          <h1>釜山爽爽去</h1>
         </div>
         <div className="cloud-badge" aria-hidden="true">☁︎</div>
       </header>
@@ -557,7 +557,7 @@ function MapOverview() {
       <div className="map-frame-wrap">
         <iframe
           src="https://www.google.com/maps/d/embed?mid=1LViG0uqSl1tRwWVSPcHS9y29J1IUtqs&hl=zh-TW&ehbc=2E312F"
-          title="阿滔阿欣釜山行程地圖"
+          title="釜山行程地圖"
           loading="lazy"
           allowFullScreen
         />
